@@ -23,7 +23,7 @@ class DummyClass extends Command
     /**
      * Create a new command instance.
      *
-     * @return DummyClass
+     * @return self
      */
     public function __construct()
     {
